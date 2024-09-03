@@ -12,3 +12,9 @@ for (let i = data.length - 1; i >= 0; i--) {
   }
   console.log(data);
 }
+
+// other method*****************************
+
+// let a = [1, 2, 3, 4, 5];
+// a.splice(2, 0, 200);
+// console.log(`${a}`);
